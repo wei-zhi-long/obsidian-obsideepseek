@@ -1,0 +1,11 @@
+﻿{
+  "id": "obsideepseek",
+  "name": "Obsideepseek",
+  "version": "1.0.0",
+  "minAppVersion": "1.11.4",
+  "isDesktopOnly": false,
+  "description": "DeepSeek AI 深度集成 — 实时对话、自动保存、手动导出到知识库。",
+  "author": "赤焰将军",
+  "authorUrl": "",
+  "fundingUrl": {}
+}
